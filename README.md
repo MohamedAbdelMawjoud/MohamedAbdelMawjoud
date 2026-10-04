@@ -153,7 +153,7 @@ A machine learning system for classifying animal sounds across multiple species 
 * **Building LLM Applications With Prompt Engineering** — NVIDIA
 * **IT Internship** — Amreya Petroleum Refining Company (APRC)
 * **IoT Training**
-* **Cybersecurity & IT Training**
+* **IT Training**
 * **Digital Pioneers / Data & AI Training Programs**
 
 ---
@@ -197,7 +197,7 @@ My goal is to become a strong **Machine Learning / AI Engineer** capable of taki
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohamedAhmed039&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Road-Sense&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAhmed039&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
